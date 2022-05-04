@@ -9,9 +9,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akhilkailas2001&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas2001&langs_count=5&theme=tokyonight)]()
