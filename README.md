@@ -8,6 +8,3 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akhilkailas2001&count_private=true&theme=tokyonight&showicons=true)]()
