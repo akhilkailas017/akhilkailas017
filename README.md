@@ -11,7 +11,7 @@ Btech student at College of Engineering and Management Punnapra, Alappuzha, Kera
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilkailas2001) 
 
 <p align="left">
-	<a href="mailto:nevinmichael28@gmail.com?subject=Github%20Visitor&body=Hi%20Akhil,%0AI%20am%20"><img src="http://img.shields.io/badge/akhilkailas2001@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="akhilkailas2001@gmail.com">
+	<a href="mailto:akhilkailas2001@gmail.com?subject=Github%20Visitor&body=Hi%20Akhil,%0AI%20am%20"><img src="http://img.shields.io/badge/akhilkailas2001@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="akhilkailas2001@gmail.com">
     </a>
  </p>
 
