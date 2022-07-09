@@ -1,5 +1,8 @@
 # Socials:
- - **[Gmail](mailto:akhilkailas2001@gmail.com)**<br>
+
+
+
+ - **[Gmail](mailto:akhilkailas2001@gmail.com?subject=Github%20Visitor&body=Hi%20Akhil,%0AI%20am%20)**<br>
  - **[Linkedin](https://linkedin.com/in/akhilkailas2001)**
 # Tech Stacks:
 **HTML , CSS , JavaScript , Java , C , C++ , Python , MySql , MariaDB , Adobe XD**
