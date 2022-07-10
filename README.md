@@ -7,9 +7,12 @@
 **HTML , CSS , JavaScript , Java , C , C++ , Python , MySql , MariaDB , PHP , Bootstrap , Adobe Photoshop , Adobe Illustarator , Adobe XD**
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=akhilkailas2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas2001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+![](https://github-readme-stats.vercel.app/api?username=akhilkailas2001&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akhilkailas2001&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas2001&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=akhilkailas2001&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
