@@ -11,11 +11,6 @@
  - **[Gym Management Website](https://github.com/akhilkailas2001/gym_management_completed.git)**
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=akhilkailas2001&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas2001&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhilkailas2001" alt="akhilkailas2001" /> 
 </p>
