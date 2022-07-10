@@ -8,7 +8,7 @@
 
 ---
 **Project Completed :**
- - **Gym Management Website**
+ - **[Gym Management Website](https://github.com/akhilkailas2001/gym_management_completed.git)**
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=akhilkailas2001&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br>
