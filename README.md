@@ -1,8 +1,8 @@
 
 ---
 # About
-**I am Akhil kailas**<br>
-**
+**I am Akhil kailas**
+
 
 ---
 # Skills
