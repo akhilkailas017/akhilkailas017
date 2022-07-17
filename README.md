@@ -10,7 +10,7 @@
 
 ---
 # Project Completed
- - **[GYM Management System Website](https://github.com/akhilkailas2001/gym_management_completed.git)**
+ - **[GYM Management System Website](https://github.com/akhilkailas2001/GYM-Management-System-Website.git)**
 
 ---
 # Social
