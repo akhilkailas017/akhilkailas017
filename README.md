@@ -13,7 +13,7 @@
 ---
 # Activities
 - **Web Developing**
-- **Image Classification using Yolov5**
+- **Object Detection using Yolov5**
 
 
 ---
