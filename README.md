@@ -11,6 +11,12 @@
 **HTML , CSS , JavaScript , Java , C , C++ , Python , MySql , MariaDB , PHP , Bootstrap , Adobe Photoshop , Adobe Illustarator , Adobe XD**
 
 ---
+# Activities
+- **Web Developing**
+- **Image Classification using Yolov5**
+
+
+---
 # Projects
  - **[GYM Management System Website](https://github.com/akhilkailas2001/GYM-Management-System-Website.git)**
 
