@@ -14,6 +14,7 @@
 # Activities
 - **Web Developing**
 - **Object Detection using Yolov5**
+- **TFLite Object Detection Android-App Using YOLOv5**
 
 
 ---
