@@ -21,10 +21,6 @@
 # Projects
  - **[GYM Management System Website](https://github.com/akhilkailas2001/GYM-Management-System-Website.git)**
 
----
-![](https://github-readme-stats.vercel.app/api?username=akhilkailas2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
-
 
 ---
 <p align="center">
