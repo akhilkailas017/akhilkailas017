@@ -12,35 +12,9 @@
 
 ###
 
-<h4 align="center">Tech Stacks</h4>
+<h3 align="left">Tech Stack</h3>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
-  
-###
-
-<h4 align="center">Social Media</h4>
-
-###
-
-<div align="center">
-  <a href="mailto:akhilkailas2001@gmail.com?subject=Github%20Visitor&body=Hi%20Akhil,%0AI%20am%20" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
- 
- <div align="center">
-  <img src="https://profile-counter.glitch.me/akhilkailas2001/count.svg?"  />
-</div>
-
-###
+- **HTML**
+- **CSS**
+- **Javascript**
+- **MYSQL**
