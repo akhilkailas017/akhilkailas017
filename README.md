@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <a href="akhilkailas2001@gmail.com" target="_blank">
+  <a href="mailto:akhilkailas2001@gmail.com?subject=Github%20Visitor&body=Hi%20Akhil,%0AI%20am%20" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/akhilkailas2001" target="_blank">
