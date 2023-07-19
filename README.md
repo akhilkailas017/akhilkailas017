@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">" Try it without thinking about how difficult it will be "</h3>
+
 
 ###
 
