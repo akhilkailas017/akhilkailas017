@@ -11,10 +11,3 @@
 <h4 align="left">Welcome to my GitHub repository! I'm Akhil Kailas, a B.Tech student with a passion for web development and an eagerness to explore various fields.</h4>
 
 ###
-
-<h3 align="left">Tech Stack</h3>
-
-- **HTML**
-- **CSS**
-- **Javascript**
-- **MYSQL**
