@@ -1,6 +1,6 @@
 # Hi there! I'm Akhil Kailas
 
-Welcome to my GitHub profile. This is where I showcase my web development projects and share my passion for coding. Feel free to explore, collaborate, or get in touch with me if you have any questions or suggestions.
+Welcome to my GitHub profile. This is where I showcase my projects and share my passion for coding. Feel free to explore, collaborate, or get in touch with me if you have any questions or suggestions.
 
 ## Skills
 
