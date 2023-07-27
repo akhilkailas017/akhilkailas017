@@ -9,6 +9,7 @@ I am proficient in the following technologies:
 - HTML
 - CSS
 - JavaScript
+- Php
 - MySQL
 - Python
 
