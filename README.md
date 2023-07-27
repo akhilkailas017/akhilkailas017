@@ -32,7 +32,8 @@ You can find more projects on my [GitHub repositories page](https://github.com/a
 If you want to get in touch, you can reach me through the following channels:
 
 - Email: akhilkailas2001@gmail.com
-- LinkedIn: [Akhil Kailas](https://www.linkedin.com/in/akhilkailas2001/)
+- LinkedIn: [akhilkailas2001](https://www.linkedin.com/in/akhilkailas2001/)
+- Instagram: [akhilkailas017](https://www.instagram.com/akhilkailas017/)
 
 ## Contributions
 
