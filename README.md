@@ -17,22 +17,22 @@ I am proficient in the following technologies:
 Here are some of the web development projects you can find in this repository:
 
 1. **Digital Passport Verification System Using Blockchain**: _The Digital Passport Verification System is a web-based applicationdeveloped using Solidity, ReactJs, and EtherJs technologies. This project aims to enhance the security and efficiency of passport verification processes by leveraging the decentralized nature of blockchain technology._
-[View File](https://github.com/akhilkailas2001/Digital-Passport-Verification-System-Using-Blockchain.git)
+[View File](https://github.com/akhilkailas017/Digital-Passport-Verification-System-Using-Blockchain.git)
 
 2. **Floor Mat Detection and Classification**: _The Floor Mat Detection and Classification project is a Python-based application developed using the YOLOv5 algorithm. The purpose of this project is to accurately detect and classify different types of floor mats in real-time._
-[View File](https://github.com/akhilkailas2001/Object-Detection-using-Yolov5.git)
+[View File](https://github.com/akhilkailas017/Object-Detection-using-Yolov5.git)
 
 3. **Gym Management Website**: _The Gym Management System Website is a comprehensive web application designed to efficiently manage and monitor the timetable and attendance of individuals using a gym facility. Developed using HTML, CSS, JavaScript, and PHP, this website provides a user-friendly interface for both gym administrators and members._
-[View File](https://github.com/akhilkailas2001/GYM-Management-System-Website.git)
+[View File](https://github.com/akhilkailas017/GYM-Management-System-Website.git)
 
-You can find more projects on my [GitHub repositories page](https://github.com/akhilkailas2001?tab=repositories).
+You can find more projects on my [GitHub repositories page](https://github.com/akhilkailas017?tab=repositories).
 
 ## Contact Me
 
 If you want to get in touch, you can reach me through the following channels:
 
 - Email: akhilkailas2001@gmail.com
-- LinkedIn: [akhilkailas2001](https://www.linkedin.com/in/akhilkailas2001/)
+- LinkedIn: [akhilkailas017](https://www.linkedin.com/in/akhilkailas017/)
 - Instagram: [akhilkailas017](https://www.instagram.com/akhilkailas017/)
 
 ## Contributions
