@@ -33,7 +33,7 @@ If you want to get in touch, you can reach me through the following channels:
 
 - Email: akhilkailas2001@gmail.com
 - LinkedIn: [akhilkailas017](https://www.linkedin.com/in/akhilkailas017/)
-- Instagram: [akhilkailas017](https://www.instagram.com/akhilkailas017/)
+- Instagram: [akhilkailas_](https://www.instagram.com/akhilkailas_/)
 
 ## Contributions
 
