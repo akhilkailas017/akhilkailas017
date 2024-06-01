@@ -40,6 +40,3 @@ I welcome contributions to my projects. If you have any ideas for improvements o
 
 I want to express my gratitude to the entire web development community for inspiring and motivating me to learn and grow. Thank you for visiting my profile, and happy coding! :rocket:
 
-## Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilkailas017&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
