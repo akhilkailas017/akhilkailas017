@@ -7,9 +7,6 @@ Welcome to my GitHub profile. This is where I showcase my projects and share my 
 I am proficient in the following technologies:
 
 - Frond End Development
-- JavaScript
-- Php
-- MySQL
 - Python
 
 ## Projects
