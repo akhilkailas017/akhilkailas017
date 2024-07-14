@@ -41,5 +41,5 @@ I want to express my gratitude to the entire web development community for inspi
 
 
 
-[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=akhilkailas017)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas017&layout=compact)
 
