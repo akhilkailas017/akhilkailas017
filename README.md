@@ -41,5 +41,5 @@ I want to express my gratitude to the entire web development community for inspi
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilkailas017&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilkailas017&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
 
