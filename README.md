@@ -39,3 +39,7 @@ I welcome contributions to my projects. If you have any ideas for improvements o
 
 I want to express my gratitude to the entire web development community for inspiring and motivating me to learn and grow. Thank you for visiting my profile, and happy coding! :rocket:
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilkailas017&show_icons=true&theme=transparent)
+
