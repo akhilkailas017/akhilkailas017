@@ -41,5 +41,5 @@ I want to express my gratitude to the entire web development community for inspi
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas017&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas017&layout=compact&theme=transparent)
 
