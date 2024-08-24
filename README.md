@@ -39,7 +39,3 @@ I welcome contributions to my projects. If you have any ideas for improvements o
 
 I want to express my gratitude to the entire web development community for inspiring and motivating me to learn and grow. Thank you for visiting my profile, and happy coding! :rocket:
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkailas017&layout=compact&theme=transparent)
-
