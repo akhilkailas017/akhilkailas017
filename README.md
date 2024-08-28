@@ -24,7 +24,7 @@ A modern ride-sharing application built with the MERN stack, designed to connect
 ### 2. **🔐 [Digital Passport Verification System Using Blockchain](https://github.com/akhilkailas017/Digital-Passport-Verification-System-Using-Blockchain.git)**  
 A web-based application developed with Solidity, ReactJs, and EtherJs, aiming to revolutionize passport verification by utilizing the security of blockchain technology.
 
-### 3. **🧼 [Floor Mat Detection and Classification](https://github.com/akhilkailas017/Object-Detection-using-Yolov5.git)**  
+### 3. **🔎 [Floor Mat Detection and Classification](https://github.com/akhilkailas017/Object-Detection-using-Yolov5.git)**  
 A Python-based real-time detection and classification system using YOLOv5, focused on identifying different types of floor mats with precision.
 
 ### 4. **💪 [Gym Management System Website](https://github.com/akhilkailas017/GYM-Management-System-Website.git)**  
