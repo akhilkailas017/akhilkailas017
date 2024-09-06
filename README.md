@@ -18,16 +18,19 @@ I'm proficient in the following technologies:
 
 Here are a few projects that showcase my skills and dedication:
 
-### 1. **🚗 [Tripmate Ride-Sharing App](https://github.com/akhilkailas017/Tripmate-Ride-Sharing-App.git)**  
+### 1. **📃 [Certificate DApp](https://github.com/akhilkailas017/Certificate-dApp.git)**  
+The Certificate DApp is a decentralized application that allows the issuance and verification of certificates securely on the blockchain. This DApp leverages Ethereum blockchain technology and smart contracts to ensure the integrity and authenticity of issued certificates. Built using React for the frontend and Solidity for the smart contract, this project ensures that certificate data remains tamper-proof and accessible to everyone.
+
+### 2. **🚗 [Tripmate Ride-Sharing App](https://github.com/akhilkailas017/Tripmate-Ride-Sharing-App.git)**  
 A modern ride-sharing application built with the MERN stack, designed to connect drivers and passengers seamlessly. Features include user authentication, ride offering and booking, ride history, profile management, and an admin panel for managing users and complaints.
 
-### 2. **🔐 [Digital Passport Verification System Using Blockchain](https://github.com/akhilkailas017/Digital-Passport-Verification-System-Using-Blockchain.git)**  
+### 3. **🔐 [Digital Passport Verification System Using Blockchain](https://github.com/akhilkailas017/Digital-Passport-Verification-System-Using-Blockchain.git)**  
 A web-based application developed with Solidity, ReactJs, and EtherJs, aiming to revolutionize passport verification by utilizing the security of blockchain technology.
 
-### 3. **🔎 [Floor Mat Detection and Classification](https://github.com/akhilkailas017/Object-Detection-using-Yolov5.git)**  
+### 4. **🔎 [Floor Mat Detection and Classification](https://github.com/akhilkailas017/Object-Detection-using-Yolov5.git)**  
 A Python-based real-time detection and classification system using YOLOv5, focused on identifying different types of floor mats with precision.
 
-### 4. **💪 [Gym Management System Website](https://github.com/akhilkailas017/GYM-Management-System-Website.git)**  
+### 5. **💪 [Gym Management System Website](https://github.com/akhilkailas017/GYM-Management-System-Website.git)**  
 A complete web application built with HTML, CSS, JavaScript, and PHP, designed to streamline gym operations by efficiently managing schedules and attendance.
 
 👉 Explore more of my work on my [GitHub repositories page](https://github.com/akhilkailas017?tab=repositories).
