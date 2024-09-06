@@ -12,7 +12,7 @@ I'm a budding software developer specializing in the MERN stack. My journey in w
 I'm proficient in the following technologies:
 
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- **Blockchain Basics** (Solidity)
+- **Blockchain** (Solidity,Hardhat)
 
 ## 🌟 Projects
 
