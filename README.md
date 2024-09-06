@@ -44,4 +44,4 @@ I'm always open to new opportunities, collaborations, and learning experiences. 
 
 Your contributions are always welcome! If you have suggestions, improvements, or find bugs in any of my projects, please don't hesitate to open an issue or submit a pull request. Let's collaborate and learn together!
 
-[![](https://visitcount.itsvg.in/api?id=akhilkails017&icon=0&color=0)](https://visitcount.itsvg.in)
+
