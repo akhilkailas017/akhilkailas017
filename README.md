@@ -20,7 +20,7 @@ Here are a few projects that showcase my skills and dedication:
 Decentralized Discord Clone, a cutting-edge web app for decentralized person-to-person chatting. In this app, chats are securely stored on the public blockchain, ensuring transparency, privacy, and ownership of your data.
 
 ### 2. **📃 [Certificate DApp](https://github.com/akhilkailas017/Certificate-dApp.git)**  
-The Certificate DApp is a decentralized application that allows the issuance and verification of certificates securely on the blockchain. This DApp leverages Ethereum blockchain technology and smart contracts to ensure the integrity and authenticity of issued certificates. Built using React for the frontend and Solidity for the smart contract, this project ensures that certificate data remains tamper-proof and accessible to everyone.
+The Certificate DApp is a decentralized application that allows the issuance and verification of certificates securely on the blockchain. Built using React for the frontend and Solidity for the smart contract, this project ensures that certificate data remains tamper-proof and accessible to everyone.
 
 ### 3. **🚗 [Tripmate Ride-Sharing App](https://github.com/akhilkailas017/Tripmate-Ride-Sharing-App.git)**  
 A modern ride-sharing application built with the MERN stack, designed to connect drivers and passengers seamlessly. Features include user authentication, ride offering and booking, ride history, profile management, and an admin panel for managing users and complaints.
