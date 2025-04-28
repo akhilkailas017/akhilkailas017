@@ -2,7 +2,7 @@
 # 👋 Hi there! I'm **Akhil Kailas**  
 **Fullstack Developer | Blockchain Enthusiast**  
 
-Welcome to my coding universe! 🌟 Whether you're here to explore my projects, collaborate on something exciting, or just say *"Hey!"*, let’s build something amazing together!  
+Welcome to my coding universe! Whether you're here to explore my projects, collaborate on something exciting, or just say *"Hey!"*, let’s build something amazing together!  
 
 ---
 
