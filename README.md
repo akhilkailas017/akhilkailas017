@@ -10,10 +10,6 @@ Welcome to my coding universe! Whether you're here to explore my projects, colla
 
 I’m a **Fullstack Developer** currently crafting robust web solutions with the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js). But my toolkit doesn’t stop there—I’m equally fluent in the **MERN Stack** (MongoDB, Express.js, React, Node.js) and passionate about blockchain’s transformative power.  
 
-🔗 **Blockchain Expertise**:  
-- **Public Blockchains**: Ethereum (Smart Contracts, Solidity, Web3.js).  
-- **Private Blockchains**: Hyperledger Fabric (Chaincode, Node.js SDK, CA Setup).  
-
 From building scalable full-stack apps to experimenting with decentralized systems, I thrive on turning ideas into real-world solutions. Always learning, always coding!  
 
 ---
