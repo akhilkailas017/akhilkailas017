@@ -9,7 +9,7 @@ I’m someone who loves diving into the world of code, constantly exploring the 
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,vite,react,nodejs,express,mongodb,solidity,postman,docker,git,github,vercel,vscode,ps&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,vite,react,nodejs,express,mongodb,,angular,ts,solidity,postman,docker,git,github,vercel,vscode,ps&theme=light)](https://skillicons.dev)
 
 ## Projects
 
