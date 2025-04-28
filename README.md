@@ -16,38 +16,59 @@
 
 ---
 
-## 🛠️ **Tech Stacks**
+## 🛠️ **Tech Toolbox**
 
-### **Core Stack**
-![](https://img.shields.io/badge/MEAN-Stack-%23D00000?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/MERN-Stack-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Blockchain-Ethereum%20%7C%20Hyperledger-3C3C3D?style=for-the-badge&logo=ethereum)
+### **🌐 Frontend Frontier**
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite)
 
-### **Frontend Galaxy**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat)
+</div>
 
-### **Backend Universe**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat)
+### **⚙️ Backend Backbone**
+<div align="center">
 
-### **Blockchain Cosmos**
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&style=flat)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&style=flat)
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?logo=linux-foundation&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+</div>
+
+### **⛓️ Blockchain Builders**
+<div align="center">
+
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=for-the-badge&logo=hyperledger)
+
+</div>
+
+### **🔧 Dev Tools & More**
+<div align="center">
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+</div>
 
 ---
 
 ## 🎯 **Featured Projects**
 
-<div align="center">
+<div align="center"> 
   
-| **Decentralized Solutions**       | **Full-Stack Applications**      |
-|-----------------------------------|----------------------------------|
-| [![Waste-Management-dApp](https://github-readme-stats.vercel.app/api/pin/?username=akhilkailas017&repo=Waste-Management-dApp&theme=dark&show_owner=true)](https://github.com/akhilkailas017/Waste-Management-dApp) | [![Tripmate-Ride-Sharing-App](https://github-readme-stats.vercel.app/api/pin/?username=akhilkailas017&repo=Tripmate-Ride-Sharing-App&theme=dark&show_owner=true)](https://github.com/akhilkailas017/Tripmate-Ride-Sharing-App) |
-| [![Certificate-dApp](https://github-readme-stats.vercel.app/api/pin/?username=akhilkailas017&repo=Certificate-dApp&theme=dark&show_owner=true)](https://github.com/akhilkailas017/Certificate-dApp) | [![Decentralized-Discord-clone](https://github-readme-stats.vercel.app/api/pin/?username=akhilkailas017&repo=Decentralized-Discord-clone&theme=dark&show_owner=true)](https://github.com/akhilkailas017/Decentralized-Discord-clone) |
+[![Waste-Management-dApp](https://github-readme-stats.vercel.app/api/pin/?username=akhilkailas017&repo=Waste-Management-dApp&theme=dark&show_owner=true)](https://github.com/akhilkailas017/Waste-Management-dApp) [![Tripmate-Ride-Sharing-App](https://github-readme-stats.vercel.app/api/pin/?username=akhilkailas017&repo=Tripmate-Ride-Sharing-App&theme=dark&show_owner=true)](https://github.com/akhilkailas017/Tripmate-Ride-Sharing-App)
+ [![Certificate-dApp](https://github-readme-stats.vercel.app/api/pin/?username=akhilkailas017&repo=Certificate-dApp&theme=dark&show_owner=true)](https://github.com/akhilkailas017/Certificate-dApp) [![Decentralized-Discord-clone](https://github-readme-stats.vercel.app/api/pin/?username=akhilkailas017&repo=Decentralized-Discord-clone&theme=dark&show_owner=true)](https://github.com/akhilkailas017/Decentralized-Discord-clone)
 
 </div>
 
