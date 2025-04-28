@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tech Stacks**
 
 ### **Core Stack**
 ![](https://img.shields.io/badge/MEAN-Stack-%23D00000?style=for-the-badge&logo=angular&logoColor=white)
