@@ -14,31 +14,31 @@ I'm a full-stack developer focused on building scalable, user-centric web applic
 
 ### **Core Technologies**
 
-JavaScript (ES6+), TypeScript, Node.js, Express.js, React.js, Angular
+**JavaScript (ES6+)** • **TypeScript** • **Node.js** • **Express.js** • **React.js** • **Angular**
 
 ### **UI & Styling**
 
-HTML5, CSS3, Tailwind CSS, Bootstrap
+**HTML5** • **CSS3** • **Tailwind CSS** • **Bootstrap**
 
 ### **Data & Storage**
 
-MongoDB, PostgreSQL, Redis
+**MongoDB** • **PostgreSQL** • **Redis**
 
-### **Quality & Testing**
+### **Testing & Performance**
 
-Mocha, Chai, k6 (Load & Performance Testing)
+**Mocha** • **Chai** • **k6**
 
-### **Distributed & Decentralized Systems**
+### **Distributed & Decentralized**
 
-Solidity, Ethereum, Hyperledger Fabric
+**Solidity** • **Ethereum** • **Hyperledger Fabric**
 
 ### **DevOps & Deployment**
 
-Docker, Vercel, Render, Git
+**Docker** • **Vercel** • **Render** • **Git**
 
-### **Tools**
+### **Developer Tools**
 
-VS Code, Postman
+**VS Code** • **Postman**
 
 ---
 
