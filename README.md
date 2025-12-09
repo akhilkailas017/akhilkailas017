@@ -1,34 +1,48 @@
-# Akhil Kailas
+# **Akhil Kailas**
 
-**Fullstack Developer | Blockchain Developer**
-
----
-
-## About Me
-
-Building decentralized solutions with a focus on **MEAN**, **MERN**, and **Blockchain**.
-**Skills:** Full-Stack Development, Smart Contracts, dApp Creation
-**Availability:** Open for collaborations and opportunities
+### **Fullstack Developer • Blockchain Developer**
 
 ---
 
-## Tech Stack
+## **About Me**
 
-**Frontend:**
-HTML, CSS, JavaScript, React, Angular, Tailwind
-
-**Backend:**
-Node.js, Express, MongoDB, TypeScript
-
-**Blockchain:**
-Solidity, Ethereum, Hyperledger
-
-**Tools & Others:**
-Git, Docker, VS Code, Postman, Vercel
+I'm a full-stack developer focused on building scalable, user-centric web applications. My experience spans modern frontend frameworks, robust backend architectures, and efficient database design. I also work with blockchain technologies, applying them where decentralized solutions add real value. I enjoy solving complex problems, writing clean code, and continuously improving as an engineer.
 
 ---
 
-## Featured Projects
+## **Tech Stack**
+
+### **Core Technologies**
+
+JavaScript (ES6+), TypeScript, Node.js, Express.js, React.js, Angular
+
+### **UI & Styling**
+
+HTML5, CSS3, Tailwind CSS, Bootstrap
+
+### **Data & Storage**
+
+MongoDB, PostgreSQL, Redis
+
+### **Quality & Testing**
+
+Mocha, Chai, k6 (Load & Performance Testing)
+
+### **Distributed & Decentralized Systems**
+
+Solidity, Ethereum, Hyperledger Fabric
+
+### **DevOps & Deployment**
+
+Docker, Vercel, Render, Git
+
+### **Tools**
+
+VS Code, Postman
+
+---
+
+## **Featured Projects**
 
 * **Waste Management dApp**
   [https://github.com/akhilkailas017/Waste-Management-dApp](https://github.com/akhilkailas017/Waste-Management-dApp)
@@ -41,3 +55,5 @@ Git, Docker, VS Code, Postman, Vercel
 
 * **Decentralized Discord Clone**
   [https://github.com/akhilkailas017/Decentralized-Discord-clone](https://github.com/akhilkailas017/Decentralized-Discord-clone)
+
+---
