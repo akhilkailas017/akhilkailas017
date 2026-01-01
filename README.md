@@ -5,7 +5,7 @@
 <h1 align="center">Akhil Kailas</h1>
 
 <p align="center">
-  Full-Stack Web Developer
+  <strong>Full-Stack Web Developer</strong>
 </p>
 
 <p align="center">
@@ -14,75 +14,41 @@
   </a>
 </p>
 
----
+<br />
 
 ## About Me
 
-I’m a **full-stack web developer** who enjoys building clean, reliable web applications from UI to backend.
+I’m a full-stack web developer focused on building clean, reliable web applications across the frontend and backend.
 
-My work spans modern JavaScript frameworks, Node.js APIs, databases, and selective use of blockchain where it makes sense. I value readable code, simple architectures, and continuous improvement as an engineer.
+I work primarily with modern JavaScript frameworks, Node.js APIs, and databases, and use blockchain technologies selectively where they add real value. I care about readable code, simple design decisions, and growing steadily as an engineer.
 
 ---
 
 ## Tech Stack
 
-### **Core Technologies**
-
+### Core Technologies
 **JavaScript (ES6+)** • **TypeScript** • **Node.js** • **Express.js** • **React.js** • **Angular**
 
-### **UI & Styling**
-
+### UI & Styling
 **HTML5** • **CSS3** • **Tailwind CSS** • **Bootstrap**
 
-### **Data & Storage**
-
+### Data & Storage
 **MongoDB** • **PostgreSQL** • **Redis**
 
-### **Testing & Performance**
-
+### Testing & Performance
 **Mocha** • **Chai** • **k6**
 
-### **Distributed & Decentralized**
-
+### Distributed & Decentralized
 **Solidity** • **Ethereum** • **Hyperledger Fabric**
 
-### **DevOps & Deployment**
-
+### DevOps & Deployment
 **Docker** • **Vercel** • **Render** • **Git**
 
-### **Developer Tools**
-
+### Developer Tools
 **VS Code** • **Postman**
-
-
----
-
-## Projects
-
-### Waste Management dApp
-Blockchain-based waste tracking and verification system.  
-https://github.com/akhilkailas017/Waste-Management-dApp
-
----
-
-### Tripmate – Ride Sharing App
-Full-stack ride sharing application with backend APIs and frontend UI.  
-https://github.com/akhilkailas017/Tripmate-Ride-Sharing-App
-
----
-
-### Certificate dApp
-Decentralized certificate issuance and verification platform.  
-https://github.com/akhilkailas017/Certificate-dApp
-
----
-
-### Decentralized Discord Clone
-Peer-to-peer communication platform using blockchain concepts.  
-https://github.com/akhilkailas017/Decentralized-Discord-clone
 
 ---
 
 <p align="center">
-  <sub>Focused on building solid web applications with modern tools.</sub>
+  <sub>Focused on building well-structured web applications with modern tools.</sub>
 </p>
