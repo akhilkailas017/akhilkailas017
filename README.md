@@ -26,26 +26,17 @@ I work primarily with modern JavaScript frameworks, Node.js APIs, and databases,
 
 ## Tech Stack
 
-### Core Technologies
-**JavaScript (ES6+)** • **TypeScript** • **Node.js** • **Express.js** • **React.js** • **Angular**
-
-### UI & Styling
-**HTML5** • **CSS3** • **Tailwind CSS** • **Bootstrap**
-
-### Data & Storage
-**MongoDB** • **PostgreSQL** • **Redis**
-
-### Testing & Performance
-**Mocha** • **Chai** • **k6**
-
-### Distributed & Decentralized
-**Solidity** • **Ethereum** • **Hyperledger Fabric**
-
-### DevOps & Deployment
-**Docker** • **Vercel** • **Render** • **Git**
-
-### Developer Tools
-**VS Code** • **Postman**
+```js
+const techStack = {
+  core: ["JavaScript", "TypeScript", "Node.js", "Express", "React", "Angular"],
+  ui: ["HTML", "CSS", "Tailwind", "Bootstrap"],
+  data: ["MongoDB", "PostgreSQL", "Redis"],
+  testing: ["Mocha", "Chai", "k6"],
+  blockchain: ["Solidity", "Ethereum", "Hyperledger Fabric"],
+  devops: ["Docker", "Vercel", "Render", "Git"],
+  tools: ["VS Code", "Postman"]
+};
+````
 
 ---
 
