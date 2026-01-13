@@ -6,11 +6,6 @@
   <strong>Full-Stack Web Developer</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/akhilkailas017">
-    <img src="https://img.shields.io/github/followers/akhilkailas017?label=Follow&style=flat-square" />
-  </a>
-</p>
 
 <br />
 
