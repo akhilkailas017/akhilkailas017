@@ -1,61 +1,42 @@
-<!-- HERO SECTION -->
-<h1 align="center">Akhil Kailas</h1>
+```bash
+$ whoami
+Akhil Kailas
+<Full-Stack Web Developer />
 
-<p align="center">
-  <strong>&lt; Full-Stack Web Developer /&gt;</strong>
-</p>
+$ info
+Role       : Full-Stack
+Code Style : Clear & Precise
+Focus      : Web Systems
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/akhilkailas017?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/akhilkailas017?label=Stars&style=social" />
-</p>
+$ about
+Designing and implementing full-stack web systems
+that balance performance, maintainability, and clarity.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack-0aa8ff" />
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Readable-blue" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-success" />
-</p>
+Experience with modern JavaScript frameworks, Node.js APIs,
+and database architectures. Blockchain explored only when
+it adds functional value.
 
-<br/>
+Guiding principle:
+  - Keep code readable and maintainable
+  - Solve problems with precise, pragmatic solutions
 
-<hr/>
-<h2>About Me</h2>
+$ tech_stack
+Core        : JavaScript, TypeScript, Node.js, Express, React, Angular
+UI          : HTML, CSS, Tailwind, Bootstrap
+Data        : MongoDB, PostgreSQL, Redis
+Testing     : Mocha, Chai, k6
+Blockchain  : Solidity, Ethereum, Hyperledger Fabric
+DevOps      : Docker, Vercel, Render, Git
+Tools       : VS Code, Postman
 
-<p>
-  I’m a full-stack web developer focused on building clean, reliable web
-  applications across the frontend and backend.
-</p>
+$ motto
+"Building systems that are efficient, understandable, and practical."
 
-<p>
-  I work primarily with modern JavaScript frameworks, Node.js APIs, and
-  databases, and use blockchain technologies selectively where they add
-  real value. I care about readable code, simple design decisions, and
-  growing steadily as an engineer.
-</p>
+$ contact
+GitHub     : https://github.com/akhilkailas017
+LinkedIn   : https://www.linkedin.com/in/akhilkailas017/
+Email      : akhilkailas2001@gmail.com
 
-<hr/>
-
-<h2>Tech Stack</h2>
-
-<pre style="background-color:#0d1117;color:#c9d1d9;padding:18px;border-radius:10px;border:1px solid #30363d;">
-<code>
-const techStack = {
-  core: ["JavaScript", "TypeScript", "Node.js", "Express", "React", "Angular"],
-  ui: ["HTML", "CSS", "Tailwind", "Bootstrap"],
-  data: ["MongoDB", "PostgreSQL", "Redis"],
-  testing: ["Mocha", "Chai", "k6"],
-  blockchain: ["Solidity", "Ethereum", "Hyperledger Fabric"],
-  devops: ["Docker", "Vercel", "Render", "Git"],
-  tools: ["VS Code", "Postman"]
-};
-</code>
-</pre>
-
-<hr/>
-
-<p align="center">
-  <sub>
-    Focused on building well-structured web applications with modern tools.
-  </sub>
-</p>
-
+$ exit
+logout
+```
